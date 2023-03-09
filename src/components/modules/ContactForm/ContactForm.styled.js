@@ -20,3 +20,7 @@ export const ErrorsMessage = styled.div`
   margin-top: 5px;
   color: red;
 `;
+
+export const Section = styled.div`
+  width: 320px;
+`;

@@ -1,5 +1,5 @@
 import { useDispatch } from 'react-redux';
-import { setSearchValue } from 'redux/searchSlice';
+import { setSearchValue } from '../../../redux/contacts/searchSlice';
 import InputName from '../../shared/InputName/InputName';
 import { FilterWrapper } from './Filter.styled';
 
